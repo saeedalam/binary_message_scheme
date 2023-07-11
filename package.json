@@ -1,0 +1,17 @@
+{
+  "name": "binary_message_scheme",
+  "version": "1.0.0",
+  "description": "scheme for binry messaging",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.ts"
+  },
+  "author": "Saeed Valipour Alam",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
